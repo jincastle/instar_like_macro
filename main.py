@@ -75,6 +75,7 @@ if __name__ == '__main__':
     hashtag = str(input('검색할 해쉬태그 입력좀'))
     scroll_times = int(input('스크롤 몇번 내릴꺼야'))
 
+
     nth = int(input('몇번째 게시물?'))
     comment = str(input('댓글내용'))
     repeat = int(input('반복 횟수'))
